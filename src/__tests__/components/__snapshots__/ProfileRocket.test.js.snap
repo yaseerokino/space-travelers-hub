@@ -1,9 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`renders Profile Rockets Component correctly 1`] = `
-<li
-  className="profile__li"
->
-  falcon 1
-</li>
-`;
